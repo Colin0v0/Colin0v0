@@ -36,12 +36,11 @@
   </tr>
 </table>
 
-<!-- 5. 连续打卡 Streak (单独一行) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <h3>⚡ Recent Activity Graph</h3>
+  <!-- area=true 让线条下面有填充色，hide_border 隐藏边框更简洁 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colin0v0&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
 </div>
-
-<br/>
 
 <!-- 6. 技术栈图标 (Skill Icons - 超高颜值) -->
 <div align="center">
