@@ -1,21 +1,40 @@
-<h1 align="center">Hi 👋, I'm Coln</h1>
-<h3 align="center">A passionate python developer from China</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colin0v0" alt="colin0v0" /></a> </p>
+  <!-- 1. 标题区 -->
+  <img src="https://media.giphy.com/media/your-cool-gif.gif" width="100" />
+  <h1>Hi there, I'm YourName 👋</h1>
+  
+  <!-- 2. 打字机特效 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Coffee+Drinker" alt="Typing SVG" />
+  </a>
 
-- 🌱 I’m currently learning **Deep-learning**
+  <!-- 3. 技术栈 (使用 Skill Icons) -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,py,js,react,docker,aws&theme=dark" />
+    </a>
+  </p>
 
-- 📫 How to reach me **colint0v0@gmail.com**
+</div>
 
-- ⚡ Fun fact **I can eat 6 meals a day**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- 4. 双栏布局 (使用 Table) -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+       <!-- 你的 Stats 卡片 -->
+       <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" />
+    </td>
+    <td align="center" width="50%">
+       <!-- 你的 Streak 卡片 -->
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colin0v0&show_icons=true&locale=en" alt="colin0v0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colin0v0&" alt="colin0v0" /></p>
+<!-- 5. 贪吃蛇 (需要配置 Action，这里只是引用生成的图片) -->
+<div align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</div>
