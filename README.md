@@ -2,22 +2,19 @@
 
   <!-- 1. 顶部动态打字机特效 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+a+Creative+Developer.;Coding+with+Passion.;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+a+Creative+Developer.;Coding+with+Passion.;Always+Learning+Computer+Science." alt="Typing SVG" />
   </a>
 
   <!-- 2. 一句简短的个人介绍或 Slogan -->
-  <h3>🚀 Turning coffee into code since 2024</h3>
+  <h3>🚀 Earth needs funny people</h3>
 
   <!-- 3. 社交媒体/联系方式 (Shields.io 风格) -->
   <p>
-    <a href="mailto:你的邮箱@gmail.com">
+    <a href="mailto:colint0v0@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/你的ID">
+    <a href="https://www.linkedin.com/in/Colin0v0">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/你的ID">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
   </p>
 
@@ -30,11 +27,11 @@
   <tr>
     <td align="center" width="50%">
       <!-- GitHub 统计卡片 (Dracula 主题) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Colin0v0&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
     </td>
     <td align="center" width="50%">
       <!-- 常用语言分析 (Dracula 主题) -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin0v0&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
     </td>
   </tr>
 </table>
@@ -51,7 +48,7 @@
   <h3>💻 Tech Stack</h3>
   <a href="https://skillicons.dev">
     <!-- 修改下面的 i=... 来添加你的语言，例如 java,py,js,react,vue,mysql,docker,aws -->
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,py,java,docker,kubernetes,linux,git,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,docker,linux,git,vscode&theme=dark" />
   </a>
 </div>
 
@@ -69,12 +66,3 @@
 
 <br/>
 
-<!-- 8. 底部：折叠区 + 3D地球仪 -->
-<div align="center">
-  <details>
-    <summary><b>🌍 Click to see Visitor's Map</b></summary>
-    <br/>
-    <!-- 替换为你自己的 Map ID，去 https://github.com/antonkomarev/github-profile-views-counter 申请一个，或者直接把下面这行删掉 -->
-    <img src="https://profile-counter.glitch.me/你的GitHub用户名/count.svg" alt="visitor count"/>
-  </details>
-</div>
