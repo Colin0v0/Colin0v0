@@ -46,8 +46,7 @@
        <h3>😂 Funny Jokes</h3>
        <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" width="100%" />
     </td>
-    
-    <!-- 右边栏：Trophies -->
+     <!-- 右边栏：Trophies -->
     <td align="center" width="60%">
        <!-- 顺便给右边也加了个标题，保持排版对齐（如果不需要可以删掉这行） -->
        <h3>🏆 Achievements</h3>
