@@ -2,7 +2,7 @@
 
   <!-- 1. 顶部动态打字机特效 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+a+Creative+Developer.;Coding+with+Passion.;Learning+Computer+Science." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+a+Creative+Developer.;Coding+with+Passion.;Always+Learning." alt="Typing SVG" />
   </a>
 
   <!-- 2. 一句简短的个人介绍或 Slogan -->
@@ -37,13 +37,20 @@
 
 <br/>
 
-<!-- 双栏布局：左边放笑话，右边放奖杯 -->
+<!-- 双栏布局：左边笑话，右边奖杯 -->
 <table align="center" border="0">
   <tr>
+    <!-- 左边栏：Joke -->
     <td align="center" width="40%">
+       <!-- 在这里加了标题 -->
+       <h3>😂 Funny Jokes</h3>
        <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" width="100%" />
     </td>
+    
+    <!-- 右边栏：Trophies -->
     <td align="center" width="60%">
+       <!-- 顺便给右边也加了个标题，保持排版对齐（如果不需要可以删掉这行） -->
+       <h3>🏆 Achievements</h3>
        <img src="https://github-profile-trophy.vercel.app/?username=Colin0v0&theme=onestar&no-bg=true&column=4&margin-w=10" width="100%"/>
     </td>
   </tr>
