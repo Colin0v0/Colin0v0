@@ -51,6 +51,11 @@
   </a>
 </div>
 
+<div align="center">
+  <!-- theme=dark 适配暗黑模式 -->
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+</div>
+
 <br/>
 
 <!-- 7. 贪吃蛇动画 (注意：这需要配置 GitHub Actions 才会动，配置好之前这里可能是裂图) -->
