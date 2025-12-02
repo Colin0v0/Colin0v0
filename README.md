@@ -100,3 +100,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3/LnQtw6w8h3z8c/giphy.gif" width="50">
   <p>Thanks for visiting Colin0v0's profile!</p>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
