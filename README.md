@@ -28,7 +28,6 @@
 
 ---
 
-
 <!-- 6. 技术栈图标 (Skill Icons - 超高颜值) -->
 <div align="center">
   <h3>💻 Tech Stack</h3>
@@ -68,13 +67,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colin0v0&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 </div>
 
-<!-- 底部动图彩蛋：根据你的 ID 0v0 选了个可爱的 -->
-<div align="center">
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3/LnQtw6w8h3z8c/giphy.gif" width="50">
-  <p>Thanks for visiting Colin0v0's profile!</p>
-</div>
-
 
 <!-- 贪吃蛇动画 -->
 <div align="center">
@@ -89,3 +81,9 @@
   </picture>
 </div>
 
+<!-- 底部动图彩蛋：根据你的 ID 0v0 选了个可爱的 -->
+<div align="center">
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3/LnQtw6w8h3z8c/giphy.gif" width="50">
+  <p>Thanks for visiting Colin0v0's profile!</p>
+</div>
