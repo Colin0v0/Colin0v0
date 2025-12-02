@@ -36,11 +36,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <h3>⚡ Recent Activity Graph</h3>
-  <!-- area=true 让线条下面有填充色，hide_border 隐藏边框更简洁 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colin0v0&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
-</div>
 
 <!-- 6. 技术栈图标 (Skill Icons - 超高颜值) -->
 <div align="center">
@@ -51,10 +46,37 @@
   </a>
 </div>
 
+
+<!-- 把这段加在之前的 Tech Stack 图标下面 -->
+
+<br/>
+
+<!-- 双栏布局：左边放笑话，右边放奖杯 -->
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="40%">
+       <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" width="100%" />
+    </td>
+    <td align="center" width="60%">
+       <img src="https://github-profile-trophy.vercel.app/?username=Colin0v0&theme=onestar&no-bg=true&column=4&margin-w=10" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 底部通栏：心电图 -->
 <div align="center">
-  <!-- theme=dark 适配暗黑模式 -->
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colin0v0&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 </div>
+
+<!-- 底部动图彩蛋：根据你的 ID 0v0 选了个可爱的 -->
+<div align="center">
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3/LnQtw6w8h3z8c/giphy.gif" width="50">
+  <p>Thanks for visiting Colin0v0's profile!</p>
+</div>
+
 
 <br/>
 
