@@ -22,15 +22,16 @@
 
 ---
 
-<!-- 4. 核心数据区域 (使用表格布局保证对齐) -->
+<!-- 4. 核心数据区域 (修复版) -->
 <table align="center" border="0">
   <tr>
     <td align="center" width="50%">
-      <!-- GitHub 统计卡片 (Dracula 主题) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Colin0v0&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+      <!-- 删除了 count_private 参数，增加了 include_all_commits 以尽可能统计公开的所有提交 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Colin0v0&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
     </td>
     <td align="center" width="50%">
-      <!-- 常用语言分析 (Dracula 主题) -->
+      <!-- 常用语言分析 -->
+      <!-- 如果你没有任何公开代码，这张卡片依然会显示 "No data"，这是正常的 -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin0v0&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
     </td>
   </tr>
