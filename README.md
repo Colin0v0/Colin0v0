@@ -37,24 +37,6 @@
   </a>
 </div>
 
-
-<br/>
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%">
-      <!-- 你的核心数据：Stars, Commits, PRs -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Colin0v0&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-    </td>
-    <td align="center" width="50%">
-      <!-- 你的语言分布：Python, Java 占比 -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colin0v0&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-
 <!-- 双栏布局：左边笑话，右边奖杯 -->
 <table align="center" border="0">
   <tr>
