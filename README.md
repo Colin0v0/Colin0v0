@@ -2,7 +2,7 @@
 
   <!-- 1. 顶部动态打字机特效 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+a+Creative+Developer.;Coding+with+Passion.;Always+Learning+Computer+Science." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+a+Creative+Developer.;Coding+with+Passion.;Learning+Computer+Science." alt="Typing SVG" />
   </a>
 
   <!-- 2. 一句简短的个人介绍或 Slogan -->
