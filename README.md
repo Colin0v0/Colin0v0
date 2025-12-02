@@ -76,17 +76,16 @@
 </div>
 
 
-<br/>
-
-<!-- 7. 贪吃蛇动画 (注意：这需要配置 GitHub Actions 才会动，配置好之前这里可能是裂图) -->
+<!-- 贪吃蛇动画 -->
 <div align="center">
   <h3>🐍 My Contributions Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg">
+    <!-- 适配暗黑模式：如果用户是深色模式，显示深色蛇 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/github-contribution-grid-snake-dark.svg">
+    <!-- 适配浅色模式：如果用户是亮色模式，显示浅色蛇 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/github-contribution-grid-snake.svg">
+    <!-- 默认显示 -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<br/>
 
