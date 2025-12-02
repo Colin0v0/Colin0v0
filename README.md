@@ -9,12 +9,18 @@
   <h3>🚀 Earth needs funny people</h3>
 
   <!-- 3. 社交媒体/联系方式 (Shields.io 风格) -->
-  <p>
+<p>
+    <!-- 1. Email -->
     <a href="mailto:colint0v0@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/Colin0v0">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <!-- 2. Instagram (记得把 link 里的 your_ins_id 换成你真实的 ID) -->
+    <a href="https://www.instagram.com/okdect">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <!-- 3. Bilibili (把 link 里的 uid 换成你的 B站数字ID) -->
+    <a href="https://space.bilibili.com/418390268">
+      <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
     </a>
   </p>
 
