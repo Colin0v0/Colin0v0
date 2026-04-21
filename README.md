@@ -37,26 +37,6 @@
   </a>
 </div>
 
-<!-- 双栏布局：左边笑话，右边奖杯 -->
-<table align="center" border="0">
-  <tr>
-    <!-- 左边栏：Joke -->
-    <td align="center" width="40%">
-       <!-- 在这里加了标题 -->
-       <h3>😂 Funny Jokes</h3>
-       <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" width="100%" />
-    </td>
-     <!-- 右边栏：Trophies -->
-    <td align="center" width="60%">
-       <!-- 顺便给右边也加了个标题，保持排版对齐（如果不需要可以删掉这行） -->
-       <h3>🏆 Achievements</h3>
-       <img src="https://github-profile-trophy.vercel.app/?username=Colin0v0&theme=onestar&no-bg=true&column=4&margin-w=10" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- 底部通栏：心电图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colin0v0&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
