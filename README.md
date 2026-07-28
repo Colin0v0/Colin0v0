@@ -37,18 +37,6 @@
   </a>
 </div>
 
-<!-- 年度贡献频率：仅展示每日活跃程度，不展示仓库或提交内容 -->
-<div align="center">
-  <h3>📈 Contribution Frequency</h3>
-  <picture>
-    <!-- 根据 GitHub 主题切换热力图配色 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/contribution-calendar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/contribution-calendar.svg">
-    <img alt="过去一年的 GitHub 贡献频率图" src="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/contribution-calendar-dark.svg">
-  </picture>
-</div>
-
-
 <!-- 贪吃蛇动画 -->
 <div align="center">
   <h3>🐍 My Contributions Snake</h3>

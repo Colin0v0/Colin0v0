@@ -1,4 +1,4 @@
-name: Generate Profile Assets
+name: Generate Snake
 
 on:
   # 每天 UTC 0 点（北京时间 8 点）生成一次公开 SVG。
@@ -17,16 +17,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
-      # 令牌只保存在 GitHub Secrets；脚本仅请求按日聚合的贡献日历数据。
-      - name: Generate anonymous contribution calendar
-        env:
-          CONTRIBUTION_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
-        run: node scripts/generate-contribution-calendar.mjs
 
       # 使用同一个只读令牌读取完整贡献日历，使私有贡献以匿名格子的形式计入。
       - uses: Platane/snk@v3
