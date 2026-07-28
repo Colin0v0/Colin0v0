@@ -1,14 +1,14 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
-  # 1. 定时触发：每天 UTC 时间 0 点 (北京时间早上 8 点) 自动运行
+  # 每天 UTC 0 点（北京时间 8 点）生成一次公开 SVG。
   schedule:
     - cron: "0 0 * * *" 
   
-  # 2. 手动触发：允许你在 Actions 页面手动点击按钮运行 (方便测试)
+  # 允许在 Actions 页面手动触发，方便首次生成和检查。
   workflow_dispatch:
 
-# 必须设置写权限，否则无法将生成的图片推送到 output 分支
+# 生成结果需要推送到 output 分支，因此只授予仓库内容写入权限。
 permissions: 
   contents: write
 
@@ -16,18 +16,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      # 生成贪吃蛇文件的核心步骤
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # 令牌只保存在 GitHub Secrets；脚本仅请求按日聚合的贡献日历数据。
+      - name: Generate anonymous contribution calendar
+        env:
+          CONTRIBUTION_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
+        run: node scripts/generate-contribution-calendar.mjs
+
+      # 使用同一个只读令牌读取完整贡献日历，使私有贡献以匿名格子的形式计入。
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: Colin0v0  # 你的用户名
+          github_user_name: Colin0v0
+          github_token: ${{ secrets.CONTRIBUTION_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 把生成的文件推送到 output 分支
+      # 将所有公开展示的 SVG 推送到 output 分支。
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

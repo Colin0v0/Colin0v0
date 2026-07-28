@@ -37,9 +37,15 @@
   </a>
 </div>
 
-<!-- 底部通栏：心电图 -->
+<!-- 年度贡献频率：仅展示每日活跃程度，不展示仓库或提交内容 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Colin0v0&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+  <h3>📈 Contribution Frequency</h3>
+  <picture>
+    <!-- 根据 GitHub 主题切换热力图配色 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/contribution-calendar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/contribution-calendar.svg">
+    <img alt="过去一年的 GitHub 贡献频率图" src="https://raw.githubusercontent.com/Colin0v0/Colin0v0/output/contribution-calendar-dark.svg">
+  </picture>
 </div>
 
 
@@ -56,10 +62,9 @@
   </picture>
 </div>
 
-<!-- 底部动图彩蛋：根据你的 ID 0v0 选了个可爱的 -->
+<!-- 底部致谢 -->
 <div align="center">
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3c3RxejI3/LnQtw6w8h3z8c/giphy.gif" width="50">
   <p>Thanks for visiting Colin0v0's profile!</p>
 </div>
 
